@@ -1,0 +1,8 @@
+{
+  "name": "ChronoNexus: Smart Time & Conference Platform",
+  "description": "A sophisticated time management and private conferencing platform featuring weekly planning, notes, support ticketing, and an administrative panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
